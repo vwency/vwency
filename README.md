@@ -26,4 +26,3 @@
 
 
 ![snake gif](https://github.com/vwency/vwency/blob/output/snake.svg)
-
