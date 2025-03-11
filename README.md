@@ -8,13 +8,6 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<h3 align="left">Leetcode</h3>
-<p align="left">
-  <a href="https://leetcode.com/u/vwency/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-vwency-orange?style=for-the-badge&logo=leetcode" alt="LeetCode Profile"/>
-  </a>
-</p>
-
 
 <h3 align="left">Contact with me:</h3>
 <p align="left">
