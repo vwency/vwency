@@ -37,13 +37,13 @@
   <a href="https://go.dev/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="golang" width="40" height="40"/>
   </a>
-  <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
+  <a href="" target="_blank" rel="noreferrer">
     <img src="https://cdn-icons-png.flaticon.com/128/12522/12522171.png" alt="setting" width="40" height="40"/>
   </a>
-  <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
+  <a href="" target="_blank" rel="noreferrer">
     <img src="https://cdn-icons-png.flaticon.com/128/11861/11861447.png" alt="tf" width="40" height="40"/>
   </a>
-  <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
+  <a href="" target="_blank" rel="noreferrer">
     <img src="https://cdn-icons-png.flaticon.com/128/16467/16467332.png" alt="ddd" width="40" height="40"/>
   </a>
   <a href="" target="_blank" rel="noreferrer">
@@ -60,6 +60,21 @@
   </a>
   <a href="" target="_blank" rel="noreferrer">
     <img src="https://cdn-icons-png.flaticon.com/128/14421/14421965.png" alt="GDB" width="40" height="40"/>
+  </a>
+  <a href="" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/353829/grafana.svg" alt="grafana" width="40" height="40"/>
+  </a>
+  <a href="" target="_blank" rel="noreferrer">
+    <img src="https://techministry.blog/wp-content/uploads/2024/07/zabbix.png" alt="zabbix" width="40" height="40"/>
+  </a>
+  <a href="" target="_blank" rel="noreferrer">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf8G-Fq64ighqF2GMGVmOo0hDmdI1KUEzz9A&s" alt="zabbix" width="40" height="40"/>
+  </a>
+  <a href="" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Prometheus_software_logo.svg/2066px-Prometheus_software_logo.svg.png" alt="zabbix" width="40" height="40"/>
+  </a>
+  <a href="" target="_blank" rel="noreferrer">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-sXDcTdumKcJqdMHUB_J7H84eAcLFgpxDXQ&s" alt="zabbix" width="40" height="40"/>
   </a>
 </p>
 
