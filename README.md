@@ -74,7 +74,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Prometheus_software_logo.svg/2066px-Prometheus_software_logo.svg.png" alt="zabbix" width="40" height="40"/>
   </a>
   <a href="" target="_blank" rel="noreferrer">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-sXDcTdumKcJqdMHUB_J7H84eAcLFgpxDXQ&s" alt="zabbix" width="40" height="40"/>
+    <img src="https://llvm.org/img/DragonFull.png" alt="LLVM" width="40" height="40"/>
   </a>
 </p>
 
