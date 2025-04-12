@@ -25,6 +25,9 @@
       <span class="stack-name">OTLP</span> collector
     </li>
     <li class="stack-item">
+      <span class="stack-name">Prometheus</span>
+    </li>
+    <li class="stack-item">
       <span class="stack-name">Jenkins</span>
     </li>
     <li class="stack-item">
