@@ -16,7 +16,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <div class="tech-stack">
-  <h4 class="stack-title">Интересует:</h4>
+  <h4 class="stack-title">Tools:</h4>
   <ul class="stack-list" style="list-style-type: none;">
     <li class="stack-item" >
       <span class="stack-name">Jaeger UI</span>
