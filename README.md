@@ -15,7 +15,27 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+<div class="tech-stack">
+  <h4 class="stack-title">Мониторинг и CI/CD</h4>
+  <ul class="stack-list" style="list-style-type: none;">
+    <li class="stack-item" >
+      <span class="stack-name">Jaeger UI</span>
+    </li>
+    <li class="stack-item">
+      <span class="stack-name">OTLP</span> collector
+    </li>
+    <li class="stack-item">
+      <span class="stack-name">Jenkins</span>
+    </li>
+    <li class="stack-item">
+      <span class="stack-name">Grafana</span>
+    </li>
+  </ul>
+</div>
+
+
 <p align="left">
+   <br>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
   </a>
