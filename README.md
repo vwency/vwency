@@ -19,7 +19,10 @@
   <h4 class="stack-title">Tools:</h4>
   <ul class="stack-list" style="list-style-type: none;">
     <li class="stack-item" >
-      <span class="stack-name">Ansible</span>
+      <span class="stack-name">Ansible(idempotency, ansible-lint, DNS-1123, mitogen)</span>
+    </li>
+    <li class="stack-item" >
+      <span class="stack-name">Opensearch dashboards</span>
     </li>
     <li class="stack-item">
       <span class="stack-name">OTLP</span> collector
