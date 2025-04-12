@@ -19,7 +19,7 @@
   <h4 class="stack-title">Tools:</h4>
   <ul class="stack-list" style="list-style-type: none;">
     <li class="stack-item" >
-      <span class="stack-name">Jaeger UI</span>
+      <span class="stack-name">Ansible</span>
     </li>
     <li class="stack-item">
       <span class="stack-name">OTLP</span> collector
