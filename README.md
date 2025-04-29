@@ -40,37 +40,16 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="golang" width="40" height="40"/>
   </a>
   <a href="" target="_blank" rel="noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/128/12522/12522171.png" alt="setting" width="40" height="40"/>
-  </a>
-  <a href="" target="_blank" rel="noreferrer">
     <img src="https://cdn-icons-png.flaticon.com/128/11861/11861447.png" alt="tf" width="40" height="40"/>
   </a>
   <a href="" target="_blank" rel="noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/128/16467/16467332.png" alt="ddd" width="40" height="40"/>
-  </a>
-  <a href="" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" alt="ansible" width="40" height="40"/>
-  </a>
-   <a href="" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/>
-  </a>
-   <a href="" target="_blank" rel="noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/128/5231/5231459.png" alt="reverse engineering" width="40" height="40"/>
-  </a>
-  <a href="" target="_blank" rel="noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/128/5815/5815526.png" alt="oop" width="40" height="40"/>
-  </a>
-  <a href="" target="_blank" rel="noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/128/14421/14421965.png" alt="GDB" width="40" height="40"/>
   </a>
   <a href="" target="_blank" rel="noreferrer">
     <img src="https://www.svgrepo.com/show/353829/grafana.svg" alt="grafana" width="40" height="40"/>
   </a>
   <a href="" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Prometheus_software_logo.svg/2066px-Prometheus_software_logo.svg.png" alt="zabbix" width="40" height="40"/>
-  </a>
-  <a href="" target="_blank" rel="noreferrer">
-    <img src="https://llvm.org/img/DragonFull.png" alt="LLVM" width="40" height="40"/>
   </a>
 </p>
 
