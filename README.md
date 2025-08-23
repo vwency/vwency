@@ -63,6 +63,9 @@
   <a href="" target="_blank" rel="noreferrer">
     <img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/helm-1.png" alt=helm" width="40" height="40"/>
   </a>
+  <a href="" target="_blank" rel="noreferrer">
+    <img src="https://gitlab.com/uploads/-/system/project/avatar/40517887/68747470733a2f2f692e696d6775722e636f6d2f367146436c41312e706e67.png" alt=nis_os" width="40" height="40"/>
+  </a>
 </p>
 
 
