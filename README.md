@@ -54,6 +54,9 @@
   <a href="" target="_blank" rel="noreferrer">
     <img src="https://api.civo.com/k3s-marketplace/istio.png" alt="istio" width="40" height="40"/>
   </a>
+  <a href="" target="_blank" rel="noreferrer">
+    <img src="https://karmada.io/img/karmada-icon-color.png" alt="karmada" width="40" height="40"/>
+  </a>
 </p>
 
 
