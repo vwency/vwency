@@ -57,6 +57,9 @@
   <a href="" target="_blank" rel="noreferrer">
     <img src="https://karmada.io/img/karmada-icon-color.png" alt="karmada" width="40" height="40"/>
   </a>
+  <a href="" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/66682517?s=280&v=4" alt="prometheus_operator" width="40" height="40"/>
+  </a>
 </p>
 
 
