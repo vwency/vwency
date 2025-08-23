@@ -60,6 +60,9 @@
   <a href="" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/66682517?s=280&v=4" alt="prometheus_operator" width="40" height="40"/>
   </a>
+  <a href="" target="_blank" rel="noreferrer">
+    <img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/helm-1.png" alt=helm" width="40" height="40"/>
+  </a>
 </p>
 
 
