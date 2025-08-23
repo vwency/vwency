@@ -48,6 +48,12 @@
   <a href="" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Prometheus_software_logo.svg/2066px-Prometheus_software_logo.svg.png" alt="zabbix" width="40" height="40"/>
   </a>
+  <a href="" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/49917779?s=280&v=4" alt="keda" width="40" height="40"/>
+  </a>
+  <a href="" target="_blank" rel="noreferrer">
+    <img src="https://api.civo.com/k3s-marketplace/istio.png" alt="istio" width="40" height="40"/>
+  </a>
 </p>
 
 
