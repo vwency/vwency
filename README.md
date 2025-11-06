@@ -13,9 +13,6 @@
 <p align="left">
 <a href="https://discord.gg/@vwency" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="@vwency" height="30" width="40" /></a>
 </p>
-<p align="left">
-t.me/vwency
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 
