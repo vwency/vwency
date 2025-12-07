@@ -6,8 +6,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=vwency&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 
 <h3 align="left">Contact with me:</h3>
 <p align="left">
