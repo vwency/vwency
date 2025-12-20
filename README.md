@@ -2,11 +2,6 @@
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=25&pause=1000&color=00F7F0&center=true&width=435&lines=Hi+there" alt="Typing SVG" /></a>
 </p>
 
-## Repo managment
-- Codecov
-- SonarQube
-- Gitleaks
-
 <h3 align="left">Contact with me:</h3>
 <p align="left">
 <a href="https://discord.gg/@vwency" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="@vwency" height="30" width="40" /></a>
