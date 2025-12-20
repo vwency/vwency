@@ -2,10 +2,9 @@
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=25&pause=1000&color=00F7F0&center=true&width=435&lines=Hi+there" alt="Typing SVG" /></a>
 </p>
 
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=vwency&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
-
+## Repo managment
+- Codecov
+- SonarQube
 
 <h3 align="left">Contact with me:</h3>
 <p align="left">
