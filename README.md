@@ -5,6 +5,7 @@
 ## Repo managment
 - Codecov
 - SonarQube
+- Gitleaks
 
 <h3 align="left">Contact with me:</h3>
 <p align="left">
