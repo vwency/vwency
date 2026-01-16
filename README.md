@@ -14,9 +14,6 @@
   </a>
 </p>
 
-Пишу prod-ready решения, работаю с k8s, data, смотрю CNCF решения, clickhouse, opensource. Best practise, инфраструктура как код, переиспользуемые решения.
-AI инференс.
-
 <h3 align="left">🎯 Interests</h3>
 
 - 💻 **Web Development** — Building modern, scalable web applications
