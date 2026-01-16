@@ -5,7 +5,6 @@
 </p>
 
 <h3 align="left">📫 Contact</h3>
-
 <p align="left">
   <a href="https://t.me/vwency" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-00F7F0?style=for-the-badge&logo=telegram&logoColor=black" alt="Telegram"/>
@@ -25,3 +24,14 @@ AI инференс, #prompt-engineering.
 - 🛠️ **System Design** — Crafting robust and efficient systems
 - 🏢 **On-Premise Solutions** — Self-hosted infrastructure and deployment
 - 🎨 **Graphics Programming** — OpenGL, Vulkan, DirectX
+
+<h3 align="left">🛠️ Tech Stack</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/>
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+</p>
