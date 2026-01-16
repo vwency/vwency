@@ -8,9 +8,15 @@
 
 <p align="left">
   <a href="https://t.me/vwency" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-00F7F0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+    <img src="https://img.shields.io/badge/Telegram-00F7F0?style=for-the-badge&logo=telegram&logoColor=black" alt="Telegram"/>
+  </a>
+  <a href="https://www.linkedin.com/in/veniamin-shapovalov-13a04a332/details/experience/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
+
+Пишу prod-ready решения, работаю с k8s, data, смотрю CNCF решения, clickhouse, opensource. Best practise, инфраструктура как код, переиспользуемые решения.
+AI инференс, #prompt-engineering.
 
 <h3 align="left">🎯 Interests</h3>
 
