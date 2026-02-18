@@ -17,5 +17,4 @@
 🌍 <b>Geo-Distribution Systems</b> — Designing globally distributed architectures<br>
 🛠️ <b>System Design</b> — Crafting robust and efficient systems<br>
 🏢 <b>On-Premise Solutions</b> — Self-hosted infrastructure and deployment<br>
-🎨 <b>Graphics Programming</b> — OpenGL, Vulkan, DirectX
 </p>
